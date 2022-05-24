@@ -1,0 +1,28 @@
+{
+    "2395": {
+        "name": "Selka",
+        "pv": 20,
+        "xp": 56484965,
+        "level": 3,
+        "money": 0,
+        "force": 0,
+        "dexterite": 0,
+        "intelligence": 0,
+        "sagesse": 0,
+        "constitution": 0,
+        "charisme": 10000000000000000
+    },
+    "0406": {
+        "name": "test",
+        "pv": 20,
+        "xp": 100,
+        "level": 3,
+        "money": 0,
+        "force": 10,
+        "dexterite": 0,
+        "intelligence": 0,
+        "sagesse": 0,
+        "constitution": 0,
+        "charisme": 0
+    }
+}
